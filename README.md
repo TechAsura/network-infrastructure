@@ -90,4 +90,3 @@ Do not enable Override DNS Settings of All Clients — this intercepts all outbo
 ## Related
 
 - homelab-infrastructure: https://github.com/TechAsura/homelab-infrastructure
-- dark-angel-tracker: https://github.com/TechAsura/dark-angel-tracker
